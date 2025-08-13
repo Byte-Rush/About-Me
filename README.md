@@ -45,8 +45,8 @@
 ---
 
 ## 🐍 Contribution Snake
-<!-- This will work AFTER setting up the GitHub Action -->
-![snake gif](https://github.com/Byte-Rush/Byte-Rush/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Byte-Rush/Byte-Rush/output/github-contribution-grid-snake.svg)
+
 
 ---
 
