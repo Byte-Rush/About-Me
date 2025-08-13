@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 >
-  Hi! I'm Rushil Sharma 🌸
+  Hi! I'm Rushil Sharma 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28">
 </h1>
 
@@ -14,13 +14,14 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Byte-Rush&style=flat&color=ffb6c1&abbreviated=true" alt="Profile views" />
+  <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
 </p>
 
 ---
 
 ## 🌸 Tech Stack  
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,canva,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,figma" />
 </p>
 
 ---
@@ -34,8 +35,7 @@
 </div>
 
 ---
- <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
- ## Let's Connect  
+## 💌 Let's Connect  
 <p>
 <a href="https://www.linkedin.com/in/rushil-sharma-70b189203/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
 <a href="mailto:rushil@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
