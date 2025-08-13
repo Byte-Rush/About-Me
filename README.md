@@ -31,9 +31,6 @@
 
 <!-- CURRENT PROJECTS -->
 ## 📌 Current Projects
-- **TraVista** 🧳 — Travel & expense-friendly Flutter app
-- **Pastel Portfolio** 🌈 — Cinnamoroll-themed Flutter web portfolio
-- **Cute UI Widgets** 🎀 — A collection of kawaii Flutter components
 
 ---
 
