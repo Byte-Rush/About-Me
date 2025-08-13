@@ -1,8 +1,8 @@
 <!-- HEADER -->
 <h1 >
-  Hi! I'm Rushil Sharma 
-      <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30">
-   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28">
+  Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
+  Rushil this side.
+  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28">
 </h1>
 
 <p>
