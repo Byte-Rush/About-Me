@@ -51,6 +51,6 @@
 
 <!-- CONNECT -->
 ## 📬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/yourusername/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFB6C1?logo=flutter&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushil-sharma-70b189203/)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/yourusername/) -->
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FFB6C1?logo=flutter&logoColor=white)](https://yourportfolio.com) -->
