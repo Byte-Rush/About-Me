@@ -1,15 +1,15 @@
 <!-- HEADER -->
 <h1 >
   Hi! I'm Rushil Sharma 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28">
+      <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="26">
 </h1>
 
 <p>
   <em>
-      <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22">
     Flutter Developer | ✨ UI Enthusiast | 🍵 Tea-Powered Coder</em><br>
   I create smooth & delightful Flutter apps with pastel aesthetics and soft animations.<br>
   Outside coding, I love 🎨 drawing, 🎶 music, and sipping tea while brainstorming ideas.
+  <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/> 
 </p>
 
 <p>
