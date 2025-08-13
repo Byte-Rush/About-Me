@@ -1,7 +1,7 @@
 <!-- PROFILE HEADER -->
 <div align="center">
   <!-- Replace with your own uploaded image link -->
-  <img src="https://blush.design/api/download?shareUri=uUPxG062l&w=800&h=800&fm=png" width="200" alt="Cute laptop illustration" />
+  <img src="[https://blush.design/api/download?shareUri=uUPxG062l&w=800&h=800&fm=png](https://storyset.com/illustration/laptop/amico)" width="200" alt="Cute laptop illustration" />
   
   <h1>Hi, I'm Rushil Sharma 🌸</h1>
   <p><em>☁️ Flutter Developer | ✨ UI Enthusiast | 🍵 Tea-Powered Coder</em></p>
