@@ -5,8 +5,9 @@
 </h1>
 
 <p>
-  <em>☁️ Flutter Developer | ✨ UI Enthusiast | 🍵 Tea-Powered Coder</em><br>
-  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22">
+  <em>
+      <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22">
+    Flutter Developer | ✨ UI Enthusiast | 🍵 Tea-Powered Coder</em><br>
   I create smooth & delightful Flutter apps with pastel aesthetics and soft animations.<br>
   Outside coding, I love 🎨 drawing, 🎶 music, and sipping tea while brainstorming ideas.
 </p>
@@ -33,12 +34,9 @@
 </div>
 
 ---
-## 💌 Let's Connect  
+ <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
+ ## Let's Connect  
 <p>
 <a href="https://www.linkedin.com/in/rushil-sharma-70b189203/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
 <a href="mailto:rushil@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
-
-
-<img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
-
