@@ -2,7 +2,7 @@
 
 <!-- HEADER -->
 <div align="center">
-  <img src="https://i.imgur.com/VqXOVgR.png" width="200" alt="Cute laptop illustration" />
+  <img src="[https://i.imgur.com/VqXOVgR.png](https://blush.design/api/download?shareUri=uUPxG062l&w=800&h=800&fm=png)" width="200" alt="Cute laptop illustration" />
   <h1>Hi, I'm Rushil Sharma 🌸</h1>
   <p><em>☁️ Flutter Developer | ✨ UI Enthusiast | 🍵 Tea-Powered Coder</em></p>
 </div>
