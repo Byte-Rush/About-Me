@@ -1,45 +1,35 @@
-<!-- PROFILE HEADER -->
+<!-- HEADER -->
+<h1 align="center">
+  Hi! I'm Rushil Sharma 🌸
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28">
+</h1>
+
+<p align="center">
+  <em>☁️ Flutter Developer | ✨ UI Enthusiast | 🍵 Tea-Powered Coder</em><br>
+  I create smooth & delightful Flutter apps with pastel aesthetics and soft animations.<br>
+  Currently working on <b>TraVista</b> — a travel & expense-friendly app.<br>
+  Outside coding, I love 🎨 drawing, 🎶 music, and sipping tea while brainstorming ideas.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Byte-Rush&style=flat&color=ffb6c1&abbreviated=true" alt="Profile views" />
+</p>
+
+---
+
+## 🌸 Tech Stack  
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,canva,figma,html,css" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
 <div align="center">
-  <!-- Replace with your own uploaded image link -->
-  <img src="[https://blush.design/api/download?shareUri=uUPxG062l&w=800&h=800&fm=png](https://storyset.com/illustration/laptop/amico)" width="200" alt="Cute laptop illustration" />
   
-  <h1>Hi, I'm Rushil Sharma 🌸</h1>
-  <p><em>☁️ Flutter Developer | ✨ UI Enthusiast | 🍵 Tea-Powered Coder</em></p>
-  
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="80" alt="sparkles">
-</div>
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=Byte-Rush&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Byte-Rush&layout=compact&theme=tokyonight&hide_border=true)
 
----
-
-## 🌸 About Me
-- 🐇 Turning ideas into smooth & cute Flutter apps
-- ☁️ Love pastel UI & soft animations
-- 🍡 Making code as delightful as dango
-- 🎯 Current focus: **TraVista** travel app
-
----
-
-## 🛠 Tech & Tools I Use
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
-
----
-
-## 📌 Current Projects
-- **TraVista** 🧳 — Flutter travel & expense-friendly app
-- **Pastel Portfolio** 🌈 — Cinnamoroll-themed Flutter portfolio
-- **Cute UI Widgets** 🎀 — A collection of kawaii Flutter components
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Byte-Rush&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Byte-Rush&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 ---
@@ -47,8 +37,11 @@
 ## 🐍 Contribution Snake
 ![snake gif](https://raw.githubusercontent.com/Byte-Rush/Byte-Rush/output/github-contribution-grid-snake.svg)
 
-
 ---
 
-## 📬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushil-sharma-70b189203/)
+## 💌 Let's Connect  
+<p>
+<a href="https://www.linkedin.com/in/rushil-sharma-70b189203/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+<a href="mailto:rushil@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
+
